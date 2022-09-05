@@ -18,5 +18,3 @@ print( name + " likes " + colour)
 birth_year = input("Birth year: ")
 print(age)
 weight = input("weight")
-
-print(weight)
